@@ -4,15 +4,20 @@
 
 🚀 Criando aplicações em produção com foco em performance e experiência do usuário.
 
-## 🔥 Projetos em Produção
+## 🔥 Projetos
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| **AugendaPet** | SaaS para petshops com bot WhatsApp e tracking em tempo real | [augendapet.com.br](https://augendapet.com.br) |
-| **Meta Ads Manager** | Gestão de campanhas Meta Ads com análise por IA | [itsads.com.br](https://itsads.com.br) |
-| **Centro Imobiliário** | Site imobiliário com busca avançada de imóveis | [centroimobiliario.com.br](https://www.centroimobiliario.com.br/) |
-| **Virginia Cavalheiro** | E-commerce de artigos em couro | [virginiacavalheiro.com.br](https://www.virginiacavalheiro.com.br/) |
-| **3Y Engenharia** | Site institucional para locação de equipamentos | [engenharia3y.com.br](https://engenharia3y.com.br) |
+| Status | Projeto | Descrição | Link |
+|--------|---------|-----------|------|
+| 🟢 | **AugendaPet** | SaaS para petshops com bot WhatsApp e tracking em tempo real | [augendapet.com.br](https://augendapet.com.br) |
+| 🟢 | **Meta Ads Manager** | Gestão de campanhas Meta Ads com análise por IA | [itsads.com.br](https://itsads.com.br) |
+| 🟢 | **Centro Imobiliário** | Site imobiliário com busca avançada de imóveis | [centroimobiliario.com.br](https://www.centroimobiliario.com.br/) |
+| 🟢 | **CRM Imobiliário** | CRM completo com dashboards, squads e análise por IA | [GitHub](https://github.com/centroimobiliario) |
+| 🟢 | **Virginia Cavalheiro** | E-commerce de artigos em couro | [virginiacavalheiro.com.br](https://www.virginiacavalheiro.com.br/) |
+| 🟢 | **3Y Engenharia** | Site institucional para locação de equipamentos | [engenharia3y.com.br](https://engenharia3y.com.br) |
+| 🔴 | **Regulariza Peruíbe** | SaaS para arquitetos com mapas interativos (Leaflet + PostGIS) | Em desenvolvimento |
+| 🔴 | **Sistema de Saúde** | Sistema multi-perfil para clínicas (Design System GOV.BR) | [GitHub](https://github.com/igortrombini/Sus-gov-front) |
+
+> 🟢 Em produção | 🔴 Em desenvolvimento
 
 ## 💻 Tech Stack
 
