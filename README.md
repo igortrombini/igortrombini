@@ -10,6 +10,8 @@
 |---------|-----------|------|
 | **AugendaPet** | SaaS para petshops com bot WhatsApp e tracking em tempo real | [augendapet.com.br](https://augendapet.com.br) |
 | **Meta Ads Manager** | Gestão de campanhas Meta Ads com análise por IA | [itsads.com.br](https://itsads.com.br) |
+| **Centro Imobiliário** | Site imobiliário com busca avançada de imóveis | [centroimobiliario.com.br](https://www.centroimobiliario.com.br/) |
+| **Virginia Cavalheiro** | E-commerce de artigos em couro | [virginiacavalheiro.com.br](https://www.virginiacavalheiro.com.br/) |
 | **3Y Engenharia** | Site institucional para locação de equipamentos | [engenharia3y.com.br](https://engenharia3y.com.br) |
 
 ## 💻 Tech Stack
