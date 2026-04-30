@@ -4,7 +4,7 @@
 
 🚀 Criando aplicações em produção com foco em performance e experiência do usuário.
 
-## 🔥 Projetos
+## Projetos
 
 | Status | Projeto | Descrição | Link |
 |--------|---------|-----------|------|
