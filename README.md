@@ -13,7 +13,7 @@
 | 🟢 | **Centro Imobiliário** | Site imobiliário com busca avançada de imóveis | [centroimobiliario.com.br](https://www.centroimobiliario.com.br/) |
 | 🟢 | **CRM Imobiliário** | CRM completo com dashboards, squads e análise por IA | [GitHub](https://github.com/centroimobiliario) |
 | 🟢 | **Virginia Cavalheiro** | E-commerce de artigos em couro | [virginiacavalheiro.com.br](https://www.virginiacavalheiro.com.br/) |
-| 🟢 | **3Y Engenharia** | Site institucional para locação de equipamentos | [engenharia3y.com.br](https://engenharia3y.com.br)](https://www.engenharia3y.com.br/) |
+| 🟢 | **3Y Engenharia** | Site institucional para locação de equipamentos | [engenharia3y.com.br](https://www.engenharia3y.com.br/) |
 | 🔴 | **Regulariza Peruíbe** | SaaS para arquitetos com mapas interativos (Leaflet + PostGIS) | Em desenvolvimento |
 | 🔴 | **Sistema de Saúde** | Sistema multi-perfil para clínicas (Design System GOV.BR) | [GitHub](https://github.com/igortrombini/Sus-gov-front) |
 
